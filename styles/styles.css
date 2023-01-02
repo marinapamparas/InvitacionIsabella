@@ -1,0 +1,32 @@
+.cumplouno{
+    color: rosybrown;
+    font-family: "Allura", sans-serif ;
+    font-size: 100px;
+ 
+}
+
+.fondorosa{
+    background-color: rosybrown;
+    color: white;
+}
+
+.fondobeige{
+    background-color: rgba(231, 231, 214, 0.814);
+}
+
+.letra{
+    color: white !important;
+}
+
+.baucum{
+    font-family: "Allura", sans-serif ;
+    font-size: 40px !important;
+   
+    
+}
+
+.nofaltes{
+    color: white !important;
+    font-weight: lighter;
+
+}
